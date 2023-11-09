@@ -31850,8 +31850,9 @@
     "tags": [
       "algebra",
       "group-theory",
+      "polynomial",
       "tensor",
-      "mathematics",
+      "math",
       "library"
     ],
     "description": "Algebra and Group theory Algorithms In Nim",
