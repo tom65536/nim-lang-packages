@@ -31842,5 +31842,20 @@
     "description": "Colorize strings in a simple and clean way",
     "license": "MIT",
     "web": "https://github.com/pNeal0/paint"
+  },
+  {
+    "name": "again",
+    "url": "https://github.com/tom65536/again",
+    "method": "git",
+    "tags": [
+      "algebra",
+      "group-theory",
+      "tensor",
+      "mathematics",
+      "library"
+    ],
+    "description": "Algebra and Group theory Algorithms In Nim",
+    "license": "GPL-3.0-or-later",
+    "web": "https://github.com/tom65536/again"
   }
 ]
